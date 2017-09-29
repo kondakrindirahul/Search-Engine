@@ -6,3 +6,4 @@ LUCENE.
 * Techniques like stopping, stemming and query expansion using psuedo relevance feedback were used 
 to improve the performance of the retrieval model.
 * The retrieval models were evaluated using techniques like Precision, Recall, MAP, MRR.
+* The readme.txt file contains the steps to run the project.
